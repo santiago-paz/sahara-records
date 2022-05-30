@@ -1,0 +1,7 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = 'My New Hugo Site'
+theme = "neim"
+googleAnalytics = "UA-XXXXXXX-Y"
+favIcon = "💻"
+enableGitInfo = "true"
